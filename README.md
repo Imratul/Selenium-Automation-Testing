@@ -7,7 +7,6 @@ This project demonstrates a Selenium-based automation test for:
 
 ## How to Run
 1. Clone the project `https://github.com/Imratul/Selenium-Automation-Testing.git`
-1. Install [ChromeDriver](https://chromedriver.chromium.org/) and place it in the `drivers/` folder.
 2. Set up Java and Selenium dependencies.
 3. Execute the `ebaySearch.java` file.
 
